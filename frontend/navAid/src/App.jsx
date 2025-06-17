@@ -1,8 +1,11 @@
+import "./App.css";
+import Nav from "./components/Nav/Nav";
+
 function App() {
   return (
-    <>
-      <h1>Lets Cook!</h1>
-    </>
+    <div className="app">
+      <Nav />
+    </div>
   );
 }
 
