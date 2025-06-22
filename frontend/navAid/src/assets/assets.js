@@ -1,4 +1,4 @@
-import map from "./buildingAMap.png";
+import map from "./buildingAMap2.jpg";
 import logo from "./navAid.svg";
 import oneStop_logo from "./icon_onestop.png";
 import bookstore_logo from "./icon_bookstore.png";
